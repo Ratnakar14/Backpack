@@ -1,2 +1,3 @@
 # Backpack
-Backpack is a travel project.
+Backpack is a tourism project.
+https://ratnakar14.github.io/Backpack/
